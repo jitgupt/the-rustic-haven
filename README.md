@@ -2,6 +2,10 @@
 
 A modern web application for managing cabin bookings, guest information, and property operations. Built with React and Vite, this system provides a comprehensive dashboard for cabin owners and staff to handle reservations, check-ins, check-outs, and property settings.
 
+## Live Application
+
+The app is hosted on Vercel and can be accessed at: **https://the-rustic-haven.vercel.app/**
+
 ## Features
 
 - **Cabin Management**: Create, edit, and manage cabin listings with details, pricing, and availability
@@ -20,7 +24,7 @@ A modern web application for managing cabin bookings, guest information, and pro
 - **Backend**: Supabase (for authentication, database, and API)
 - **Styling**: Styled Components with global styles
 - **Build Tool**: Vite with HMR (Hot Module Replacement)
-- **Deployment**: Netlify
+- **Deployment**: Vercel
 
 ## Prerequisites
 
@@ -102,7 +106,7 @@ Real-time analytics and activity overview for property operations.
 
 ## Deployment
 
-The project is configured for deployment on Netlify. See `netlify.toml` for configuration details.
+The project is deployed on Vercel for optimal performance and scalability.
 
 ## License
 
